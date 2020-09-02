@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  text-align: center;
+  margin: 0 auto;
+}
+
+button, h1 {
+  display: inline-block;
+  border: 0;
+  background-color: white;
+  cursor: pointer;
+}
+
+li.holiday {
+  color: red;
+}
